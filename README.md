@@ -1,3 +1,5 @@
+<img src="preview.png"></a>
+
 # Blog with Next.js + Sanity
 
 1. Install dependencies
